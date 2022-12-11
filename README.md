@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # Less language support in Atom
 [![macOS Build Status](https://travis-ci.org/atom/language-less.svg?branch=master)](https://travis-ci.org/atom/language-less)
 [![Windows Build Sstatus](https://ci.appveyor.com/api/projects/status/aeina4fr4b0i7yay/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/language-less/branch/master)
